@@ -1,3 +1,7 @@
+![Pluto Logo](assets/Pluto%20Logo_White.svg)
+
+---
+
 # Project Name
 
 Brief description of what this project does and its core value proposition.
