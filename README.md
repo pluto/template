@@ -1,4 +1,13 @@
-![Pluto Logo](assets/Pluto%20Logo_White.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pluto/.github/main/profile/assets/assets_ios_Pluto-1024%401x.png" alt="Pluto Logo" width="50" height="50">
+  <br>
+  <b style="font-size: 24px;">Pluto</b>
+</p>
+<p align="center">
+  <a href="https://t.me/pluto_xyz/1"><img src="https://img.shields.io/badge/Telegram-Group-8B5CF6?style=flat-square&logo=telegram&logoColor=white&labelColor=24292e&scale=1.5" alt="Telegram"></a>
+  <a href="https://docs.pluto.xyz/"><img src="https://img.shields.io/badge/Docs-Pluto-8B5CF6?style=flat-square&logo=readme&logoColor=white&labelColor=24292e&scale=1.5" alt="Docs"></a>
+  <img src="https://img.shields.io/badge/License-Apache%202.0-8B5CF6.svg?label=license&labelColor=2a2f35" alt="License">
+</p>
 
 ---
 
@@ -21,24 +30,27 @@ These instructions will help you get a copy of the project up and running on you
 What things you need to install and how to install them:
 
 ```bash
-npm install 
+npm install
 # or ...
 ```
 
 ### Installation
 
 1. Clone the repository
+
    ```bash
    git clone https://github.com/username/project.git
    ```
 
 2. Install dependencies
+
    ```bash
    cd project
    npm install # or equivalent for your project
    ```
 
 3. Configure environment variables
+
    ```bash
    cp .env.example .env
    # Edit .env with your values
